@@ -14,7 +14,9 @@
     <br><b>Next goals:</b> Creating an NPM Package, Vite, etc. the list will never end 🙏
         <br />
     <br>Have a nice day 💫
-    
+    <br />
+    <br>If you want to visit some co-working cafés in Berlin, feel free to check out my blog:
+    <br><b>https://www.coworkingcafes.de<b>
 </samp>
  <br><br><br>
 </p>
