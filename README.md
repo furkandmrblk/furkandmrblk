@@ -8,9 +8,9 @@
     <br />
     <br><b>https://www.furkandmrblk.com</b>
     <br />
-    <br><b>Current Tech-Stack:</b> Next.js | TypeScript | PostgreSQL | Prisma | GraphQLHelix | GiraphQL     <br />
-    <br><b>Currently learning:</b> GeeksForGeeks & LeetCode (Data Structures & Algorithms), React Native, Python     <br />
-    <br><b>Improving in:</b> TypeScript, GiraphQL, cleaner & smarter Coding     <br />
+    <br><b>Current Tech-Stack:</b> Next.js | TypeScript | PostgreSQL | Prisma | GraphQLHelix | GiraphQL | GraphQL    <br />
+    <br><b>Currently learning:</b> GeeksForGeeks & LeetCode (Data Structures & Algorithms), Svelte, Python  <br />
+    <br><b>Improving in:</b> TypeScript, GiraphQL, better coding, state management, performance, etc.    <br />
     <br><b>Next goals:</b> Creating an NPM Package, Vite, etc. the list will never end 🙏
         <br />
     <br>Have a nice day 💫
