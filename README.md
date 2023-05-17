@@ -3,7 +3,7 @@
   <samp>  
     <br>Hi there 👋 I'm <b> Furkan </b>
     <br />
-    <br>I am currently majoring in business administration and found a passion in web development. 
+    <br>I graduated in business administration and I focus on programming.
     <br>Every day is a day of improvement. 
     <br />
     <br>Have a nice day 🪄
